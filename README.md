@@ -24,10 +24,10 @@ Follow these steps to get the project running on your local machine:
   git clone https://github.com/pratyush1602/Finance-Chat-Bot.git
 
 
-- ### Navigate to Finance-Chat-Bot
+- ### 2. Navigate to Finance-Chat-Bot
   ```
     cd Finance-Chat-Bot
 
--### Run
+- ### 3. Run
   ```
-    python Chatbot.py
+    python chatbot.py
